@@ -1,0 +1,49 @@
+#cobra {
+    color: darkgoldenrod;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 53px;
+
+
+
+}
+
+#pit {
+    background:linear-gradient(to left, burlywood, azure)
+}
+
+#ferro {
+    margin-left: 200px;
+}
+
+#viper {
+    background-color: beige;
+}
+
+#krait {
+    color:darkgoldenrod;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 23px;
+}
+
+#form {
+    color:darkgoldenrod;
+    text-align: left;
+    font-family: fantasy;
+    font-size: 33px;
+
+}
+
+
+
+.hi {
+    color: darkgoldenrod;
+    font-family: fantasy;
+    font-size: 23px;
+
+}
+
+#data {
+    background:linear-gradient(to left, beige, burlywood)
+}
